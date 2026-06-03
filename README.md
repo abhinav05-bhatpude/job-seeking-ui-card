@@ -7,3 +7,9 @@ A simple React project demonstrating a modern job-seeking card component.
 - Reusable React Component
 - Responsive Design
 - Easy Customization
+
+- ## Tech Stack
+
+- React
+- CSS
+- JavaScript
