@@ -13,3 +13,7 @@ A simple React project demonstrating a modern job-seeking card component.
 - React
 - CSS
 - JavaScript
+
+- ## Usage
+
+Run the application locally and explore the Job Seeking Card UI component.
