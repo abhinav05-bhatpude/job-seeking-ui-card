@@ -4,10 +4,11 @@ A responsive React-based job seeking UI card designed to present job opportuniti
 
 ## Features
 
-- Modern UI
-- Reusable React Component
-- Responsive Design
-- Easy Customization
+- Modern and clean job card interface
+- Reusable React components
+- Responsive design for different screen sizes
+- Structured job information layout
+- Easy-to-customize UI components
 
 ## Tech Stack
 
