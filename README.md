@@ -18,7 +18,14 @@ A responsive React-based job seeking UI card designed to present job opportuniti
 
 ## Usage
 
-Run the application locally and explore the Job Seeking Card UI component.
+To run the project locally:
+
+1. Clone the repository.
+2. Install the project dependencies.
+3. Start the React development server.
+4. Open the local application in your browser to explore the Job Seeking Card UI.
+
+The project can be customized by modifying the React components and CSS styles.
 
 
 ## Project Objectives
