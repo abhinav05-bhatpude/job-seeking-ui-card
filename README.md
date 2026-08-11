@@ -33,10 +33,11 @@ The project can be customized by modifying the React components and CSS styles.
 This project was created to:
 
 - Practice building reusable React components.
-- Improve frontend UI development skills.
-- Learn responsive web design principles.
-- Create a clean and customizable job card interface.
-- Build a beginner-friendly React project for learning and portfolio purposes.
+- Strengthen frontend UI development skills.
+- Apply responsive web design principles.
+- Build a clean and customizable job card interface.
+- Improve understanding of component-based project structure.
+- Gain hands-on experience building practical React interfaces.
 
 
 ## Learning Outcomes
