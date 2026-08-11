@@ -1,6 +1,6 @@
 # Job Seeking UI Card
 
-A simple React project that showcases a modern and responsive Job Seeking UI Card. It is designed to demonstrate reusable React components with a clean user interface.
+A responsive React-based job seeking UI card designed to present job opportunities in a clean and modern interface. This project focuses on reusable components, responsive layouts, and practical frontend development using React and CSS.
 
 ## Features
 
