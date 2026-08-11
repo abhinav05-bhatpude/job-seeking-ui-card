@@ -12,9 +12,9 @@ A responsive React-based job seeking UI card designed to present job opportuniti
 
 ## Tech Stack
 
-- React
-- CSS
-- JavaScript
+- **React** — Component-based UI development
+- **JavaScript** — Application logic and interactivity
+- **CSS** — Styling, layout, and responsive design
 
 ## Usage
 
